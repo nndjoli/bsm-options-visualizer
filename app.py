@@ -12,6 +12,12 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+#Author:
+st.sidebar.markdown(f"Author: Nathan NDJOLI")
+st.sidebar.markdown(f"[Linkedin](https://www.linkedin.com/in/nndj/)")
+st.sidebar.markdown(f"[E-mail](mailto:nathan.ndjoli@gmail.fr)")
+st.sidebar.markdown(f"[Github](https://github.com/nndjoli)")
+
 # Title
 st.markdown("# Black-Scholes & Merton Options Visualizer")
 
