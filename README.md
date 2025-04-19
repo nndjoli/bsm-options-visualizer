@@ -24,7 +24,7 @@ streamlit run app.py
 ## Folder structure
 - `app.py`: Main Streamlit application
 - `models_class.py`: Option pricing models and logic
-- `models/`: Additional model files (if any)
+- `models/`: Black Scholes / Black Scholes & Merton modules
 
 ## Requirements
 - Python 3.8+
