@@ -2,6 +2,8 @@
 
 This Streamlit app provides an interactive dashboard to explore both real and theoretical option data using the Black-Scholes and Black-Scholes-Merton models. Users can visualize option prices, Greeks, and payoffs for Calls and Puts, with real market data or custom parameters.
 
+- <b>Direct Link:</b> <a href="https://bsm-options-visualizer.streamlit.app/">Black Scholes &amp; Merton Options Visualizer</a>
+
 ## Features
 - Two-tab dashboard: Real underlying data and Theoretical parameters
 - Interactive charts for price, volume, and option metrics
